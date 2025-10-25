@@ -1,0 +1,5 @@
+Important things to remember
+
+1. if involves usage of graphics.c, must create file within the same file where graphics.c is
+
+2. type (gcc -o q3 q3.c graphics.c && ./q3 | java -jar drawapp-4.5.jar) in the terminal
